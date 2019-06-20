@@ -1,0 +1,10 @@
+Package: com.nwhit.hulugesturedisabler
+Name: HuluGestureDisabler
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disables the swipe to dismiss and double tap to skip gestures in the Hulu app
+Maintainer: Nathan Whitaker
+Author: Nathan Whitaker
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 136
